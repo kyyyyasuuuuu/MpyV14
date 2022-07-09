@@ -1,5 +1,5 @@
 let handler = async (m, { conn }) => {
-	conn.sendFile(m.chat, 'https://yog-apikey.herokuapp.com/api/bokep?apikey=YogGanz', 'asupan.mp4', '✿𝗖𝗥𝗘𝗔𝗧𝗢𝗥➢𝐆𝐞𝐦𝐩𝐲 𝐓𝐨𝐧\nSubscribe : https://www.youtube.com/channel/UCZoVmApPxtLYgUWwBD4nbCw', m)
+	conn.sendFile(m.chat, 'https://yog-apikey.herokuapp.com/api/bokep?apikey=YogGanz', 'asupan.mp4', '𝗖𝗥𝗘𝗔𝗧𝗢𝗥➪𝗜𝗸𝘆𝗶𝗸𝘆\nFollow : https://www.Instagram.com/riskysatyr
 }
 handler.help = ['bkp']
 handler.tags = ['asupan']
